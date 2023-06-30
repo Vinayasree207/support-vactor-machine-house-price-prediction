@@ -1,4 +1,4 @@
-# support-vactor-machine-house-price-prediction
+# support-vector-machine-house-price-prediction
 
 __Introduction to SVM__
 
